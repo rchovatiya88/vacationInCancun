@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="142164" started-at="2016-08-31T18:12:59Z" finished-at="2016-08-31T18:15:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="142164" started-at="2016-08-31T18:12:59Z" finished-at="2016-08-31T18:15:21Z">
+      <class name="com.vacationInCancun.dallasToCancun">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:com.vacationInCancun.dallasToCancun@a3d8174]" name="setupBrowser" is-config="true" duration-ms="8795" started-at="2016-08-31T14:12:59Z" finished-at="2016-08-31T14:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="dallasCancun()[pri:0, instance:com.vacationInCancun.dallasToCancun@a3d8174]" name="dallasCancun" duration-ms="132572" started-at="2016-08-31T14:13:08Z" finished-at="2016-08-31T14:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dallasCancun -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vacationInCancun.dallasToCancun@a3d8174]" name="closeBrowser" is-config="true" duration-ms="784" started-at="2016-08-31T14:15:20Z" finished-at="2016-08-31T14:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.vacationInCancun.dallasToCancun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

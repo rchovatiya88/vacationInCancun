@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Ronak(failed)">
+    <classes>
+      <class name="com.vacationInCancun.newarkToCancun">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setupBrowser"/>
+          <include name="newarkCancun"/>
+        </methods>
+      </class> <!-- com.vacationInCancun.newarkToCancun -->
+    </classes>
+  </test> <!-- Ronak(failed) -->
+</suite> <!-- Failed suite [Suite] -->
